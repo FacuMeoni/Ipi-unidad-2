@@ -14,8 +14,7 @@ números correlativos desde el ingresado hasta el doble de este. Si el número i
 mostrar los números pares desde el ingresado hasta el doble del ingresado. Por ejemplo, si se ingresa un
 8, se mostrará 8, 10, 12, 14, 16. Si se ingresa un 5, se mostrarán 5, 6, 7, 8, 9, 10.
 
-4) Escribir un programa que solicite ingresar una cantidad de números enteros a procesar. Luego, permitir
-al usuario ir ingresando uno a uno la cantidad pedida de números. Una vez finalizado el ingreso, se deberá mostrar la suma total de los números ingresados.
+4) Escribir un programa que solicite ingresar una cantidad de números enteros a procesar. Luego, permitir al usuario ir ingresando uno a uno la cantidad pedida de números. Una vez finalizado el ingreso, se deberá mostrar la suma total de los números ingresados.
 
 5) Modificar el programa anterior para que, si se ingresa un número negativo, no se procese, pero continúe la ejecución. Finalmente, mostrar por separado la suma de los números positivos pares e impares
 ingresados.
